@@ -13,7 +13,7 @@ import random
 numer = sys.argv[1]
 print " ~ Connecting to Instagram"
 #modify here
-insta = Instagram('usernamefoo', 'passfordfoo')                                   
+insta = Instagram('hsyinaltindag', 'huseyin2')                                   
 
 
 if insta.login() == False:
